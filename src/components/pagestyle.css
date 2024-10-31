@@ -3,8 +3,9 @@ body {
     background-color: #151517;
     color: #ffffff;
     font-family: -apple-system-font, BlinkMacSystemFont, Inter, sans-serif;
-    margin: 10%;
-    padding: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    //padding: 10%;
 }
 
 /* Links! */
